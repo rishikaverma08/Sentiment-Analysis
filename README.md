@@ -109,6 +109,13 @@ The application is intended to provide an interface for submitting review text a
 
 The exact sentiment labels and displayed output depend on the model and implementation used in the application.
 
+## 🌐 Live Demo
+
+**Try the application here:** [Sentiment Analysis – Live App](https://sentiment-analysis-rv-08.streamlit.app/)
+
+Explore the deployed application and test its review sentiment prediction functionality.
+
+
 ## 🌍 Applications
 
 - Customer feedback analysis
