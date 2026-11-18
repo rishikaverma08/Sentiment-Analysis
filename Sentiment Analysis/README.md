@@ -102,6 +102,7 @@ streamlit run app.py
 Streamlit will provide a local URL, usually `http://localhost:8501`, which you can open in your web browser.
 
 Ensure that the trained model file is present at the location expected by `app.py`.
+Project link: https://sentiment-analysis-rv-08.streamlit.app/
 
 ## 📊 Expected Output
 
